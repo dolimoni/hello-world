@@ -67,7 +67,7 @@ $page = "index";
                     <div class="button-container">
                         <button type="submit" name="submit"><span class="glyphicon glyphicon-search"></span> ???</button>
                     </div>
-                </form>
+                </form>player --------------------------------------------
             </div>
         </div>
     </div>
