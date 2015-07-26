@@ -50,13 +50,13 @@ $page = "index";
                             <input type="text" name="name" placeholder="??? ?????"/>
                         </div>
                         <div class="col-sm-5">
-                            <label>?????? ??????????</label>
+                            <label>?????? ??????????</label> iniesta-------------------------------
                             <input type="text" name="email" placeholder="?????? ??????????"/>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-sm-5 col-sm-offset-1">
-                            <label>????? ????? ??????</label>
+                            <label>????? ????? ??????</label>the best ------------------------------
                             <input type="text" name="old_address" placeholder="???? ????? ????? ?????? ?????"/>
                         </div>
                         <div class="col-sm-5">
@@ -67,7 +67,7 @@ $page = "index";
                     <div class="button-container">
                         <button type="submit" name="submit"><span class="glyphicon glyphicon-search"></span> ???</button>
                     </div>
-                </form>
+                </form>player --------------------------------------------
             </div>
         </div>
     </div>
