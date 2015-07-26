@@ -17,7 +17,7 @@ $page = "index";
 <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
-
+	tzzz
     <!-- Mobile Specific Meta -->
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
@@ -50,14 +50,14 @@ $page = "index";
                             <input type="text" name="name" placeholder="??? ?????"/>
                         </div>
                         <div class="col-sm-5">
-                            <label>?????? ??????????</label>
+                            <label>Essaidim.com hhhh</label>
                             <input type="text" name="email" placeholder="?????? ??????????"/>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-sm-5 col-sm-offset-1">
                             <label>????? ????? ??????</label>
-                            <input type="text" name="old_address" placeholder="???? ????? ????? ?????? ?????"/>
+                            <input type="email" name="chi l3eba" placeholder="???? ????? ????? ?????? ?????"/>
                         </div>
                         <div class="col-sm-5">
                             <label>??? ?????? ??????</label>
